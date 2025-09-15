@@ -1,3 +1,4 @@
+Python 3.10.11
 En la práctica de hoy aprendimos sobre el módulo turtle, que nos da varias herramientas para dibujar en la pantalla y usamos estas herramientas para hacer un cuadrado, triángulo, círculo y una línea recta.
 
 Lo primero que hicimos es importar la librería turtle y crear la tortuga, la tortuga se llama, “tortubean”
