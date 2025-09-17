@@ -1,4 +1,4 @@
-"""Para esta practica tenemos que hacer que la digura se mueva en diferentes
+"""Para esta practica tenemos que hacer que la figura se mueva en diferentes
 direcciones, como en turtle no hay una forma de mover el dibujo como tal,
 tendremos que simular el movimiento, haciendo que el dibujo se elimina para
 aparecer en un lugar diferente a la que tiene originalmente sumando la
