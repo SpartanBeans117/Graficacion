@@ -1,3 +1,5 @@
+Esta Practica fue hecha con IA con la IA Copilot de microsoft
+
 En esta practica hicimos un archivo de python con el objetivo de que esta misma cree un archivo y tambien lo cargue
 para que turtle pueda leerlo y dibujarlo en una ventana.
 
